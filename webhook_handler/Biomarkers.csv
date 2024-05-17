@@ -1,0 +1,17 @@
+,,,
+,biomarker_name,highLowFlag,disease risk
+,SODIUM,high,"[""dementia"", ""diabetes"", ""dehydration"", ""fever""]"
+,SODIUM,low,"[""addison disease"", ""diuretcics"", ""cirrhosis""]"
+,urea,high,"[""renal disease"", ""kidney failure""]"
+,urea,low,"[""liver disease"", ""pregnancy""]"
+,creatine,high,"[""UTI"", ""kidney failure"", ""kidney infection""]"
+,creatine,low,"[""chronic kidney disease""]"
+,MCH,low,"[""anemia""]"
+,MCHC,low,"[""anemia"", ""pancytopenia"", ""celiac disease""]"
+,MCHC,high,"[""hereditary spherocytosis""]"
+,GGT,high,"['Hepatitis"", ""cholestasis"", ""Non-alcoholic fatty liver disease""]"
+,GGT,low,"[""biliary atresia""]"
+,Hemoglobin,high,"[""hypoxia"", ""polycythemia""]"
+,pcv,low,"[""polycythaemia""]"
+,pcv,high,"[""polycythaemia""]"
+,hemoglobin,low,"[""hypoxia"", ""polycythemia""]"
